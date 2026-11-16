@@ -1,0 +1,19 @@
+<mxfile host="65bd71144e">
+    <diagram id="eHutSUo06CXhePOpuL0d" name="Page-1">
+        <mxGraphModel dx="1068" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="PfG36dHM_3s-i9NSrio9-2" parent="1" style="whiteSpace=wrap;html=1;" value="bbuilding: web, mobile app&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;how to post davai: +, description, images (optional recommended), location (optional add or remote or deal),&amp;nbsp;&lt;/div&gt;&lt;div&gt;how many person required and how many positions is left, post date (automatic), timeframe (optional), category,&lt;/div&gt;&lt;div&gt;&amp;nbsp; is activity free if not how much etc...(i pay, we split), auto agree or choose&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;proifle main info&lt;/div&gt;&lt;div&gt;profile: followers, following, badge, how many davai posted, davai activitiy, trusty rating, comments on profile,&lt;/div&gt;&lt;div&gt;name, age, pfp, email, bio, expericne lvl, weight, age, height, gender, optional cover photo, contact info, location&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="360" width="640" x="40" y="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="PfG36dHM_3s-i9NSrio9-3" parent="1" style="whiteSpace=wrap;html=1;" value="scroll page, search, chat, profile,&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;main colors: #0F1B3D, pure white&lt;/div&gt;&lt;div&gt;accent color:&amp;nbsp;\#FF3D8B&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="200" width="640" x="40" y="490" as="geometry"/>
+                </mxCell>
+                <mxCell id="PfG36dHM_3s-i9NSrio9-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span class=&quot;_ap3a _aaco _aacu _aacx _aad7 _aade&quot; dir=&quot;auto&quot;&gt;&lt;br&gt;• Glassmorphism&lt;br&gt;• Bento Grid&lt;br&gt;&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="510" width="210" x="720" y="190" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
